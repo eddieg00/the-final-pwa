@@ -27,4 +27,4 @@ please refer to the license in the repo.
 How to contribute?: fork the repo and clone down to your local machine. Once you have the latest version of the repo you can add or make changes then submit a pull request for your changes.
 
 ## ScreenShot
-![ScreenShot](https://github.com/eddieg00/myteam-oop/blob/main/assets/sceeenshots/Screenshot%20(28).png)
+![ScreenShot](https://github.com/eddieg00/the-final-pwa/blob/main/assets/Screenshot%20(35).png)
