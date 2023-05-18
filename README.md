@@ -7,6 +7,7 @@
 4. [License ](#License )
 5. [Contributions](#Contributions)
 6. [ScreenShot](#ScreenShot)
+7. [Link](#Link)
 ## Description 
 
 PWA text editor that allows the page to be downloaded as a desktop application so that it may be used in offline mode aswell.
@@ -28,3 +29,7 @@ How to contribute?: fork the repo and clone down to your local machine. Once you
 
 ## ScreenShot
 ![ScreenShot](https://github.com/eddieg00/the-final-pwa/blob/main/assets/Screenshot%20(35).png)
+
+## Link
+
+https://the-final-pwa.herokuapp.com/
